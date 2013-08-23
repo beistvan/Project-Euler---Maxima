@@ -1,0 +1,1 @@
+load ("basic")$(f:[],for i:1 thru 9 do for j:1 thru 9 do push(i*j,f))$lmax(f);
