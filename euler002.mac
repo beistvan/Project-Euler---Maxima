@@ -1,0 +1,1 @@
+sum(if mod(fib(i),2)=0 and fib(i)<4000000 then fib(i) else 0,i,1,40);
